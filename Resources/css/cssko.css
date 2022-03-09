@@ -222,3 +222,8 @@ td {
   display: flex;
   justify-content: space-between;
 }
+.menucko img {
+  display: flex;
+  justify-content: right;
+  
+}
